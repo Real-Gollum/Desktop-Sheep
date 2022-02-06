@@ -5,7 +5,8 @@ I found the original sprites for an old [Windows XP program](https://www.youtube
 It works pretty much the same as the original, and should be compatible with Windows 10 & 11 (maybe even 7! But I cant test that).
 
 ## Installation ##
-Just download this repository. If windows or chrome blocks the execution/download, you have to find a solution yourself (I 
+Just download this repository. If windows or chrome blocks the execution/download, you have to find a solution yourself.
+Once started the program will automatically create two cursor files (For some reason cursors have to be loaded from a file, can´t use a virtual file) and register two keys. While running you can interact with the program through the task tray, and close it that way too.
 
 ## How did I do it? ##
 **(Pretty technical)**
